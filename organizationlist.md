@@ -2,11 +2,11 @@
 # Existing Organizations for Librarians
 
 1. CCCOER
-..*Get involved by:
+..* Get involved by:
 2. SPARC OER
-⋅⋅*Get involved by:
+⋅⋅* Get involved by:
 3. Creative Commons OER
-⋅⋅*Get involved by: 
+⋅⋅* Get involved by: 
 
 
 
